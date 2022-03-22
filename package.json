@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "randomstring": "^1.2.2"
+  },
+  "name": "dos-ameli",
+  "version": "1.0.0",
+  "description": "Fuck you scammer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Denise BITCA",
+  "license": "MIT"
+}
